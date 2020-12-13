@@ -1,0 +1,9 @@
+__pycache__
+.git/
+
+*.egg-info
+*.egg/
+*.pyc
+*.swp
+
+node_modules
