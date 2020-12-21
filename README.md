@@ -70,6 +70,10 @@ $ cd docker_test_speed
      - T1 - ``3:55 minut``
      - T2 - ``13 sekund``
      - T3 - ``22 sekund``
+    - 2. Pokus
+     - T1 - ``3:30 minut``
+     - T2 - ``17 sekund``
+     - T3 - ``29 sekund``
 
 # Správné zobrazení
 ![](test.png)
