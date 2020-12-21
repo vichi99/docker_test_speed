@@ -1,3 +1,20 @@
+# instalace dockeru
+1. Stáhni docker z https://www.docker.com
+
+2. Nainstaluj docker (MacOS - zkopíruj docker do Applications)
+
+3. Spusť docker, např. cmd + space --> docker
+
+4. Po spuštění dockeru se na ve stavovém panule objeví logo velryby, následně je možné v novém okně Terminálu používat `docker` příkazy
+
+
+# naklonuj tento repo
+
+```
+$ git clone https://github.com/vichi99/docker_test_speed.git
+$ cd docker_test_speed 
+```
+
 # docker_test_speed
 1. Stáhni již hotový node image, aby neměl vliv na čas měření.
     ```sh
@@ -47,6 +64,12 @@
      - T1 - ``3:45 minut``
      - T2 - ``28 sekund``
      - T3 - ``37 sekund``
+
+# čas MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports), 2,3 GHz Dvoujádrový Intel Core i5, 8GB RAM, MacOS Catalina 10.15.7
+    - 1. Pokus
+     - T1 - ``3:55 minut``
+     - T2 - ``13 sekund``
+     - T3 - ``22 sekund``
 
 # Správné zobrazení
 ![](test.png)
