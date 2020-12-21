@@ -54,6 +54,7 @@ Jelikož jsem zvědavý a [docker](https://www.docker.com/) se chová rozdílně
 | ---- | ---- | 4:20          | 16            | 40            | 2. |
 | ---- | ---- |3:45          | 28            | 37            | 3. |
 | Macbook Pro 13-inch 2017 8GB RAM | macOS | 3:55          | 13            | 22            | 1. |
+| ---- | macOS | 3:30          | 17            | 29            | 2. |
 | Výkonný Stolní Windows PC 16GB RAM | Xubuntu in VM | 1:23          | 10            | 16            | 1. |
 
 # Správné zobrazení
