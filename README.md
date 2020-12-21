@@ -65,7 +65,7 @@ $ cd docker_test_speed
      - T2 - ``28 sekund``
      - T3 - ``37 sekund``
 
-# čas MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports), 2,3 GHz Dvoujádrový Intel Core i5, 8GB RAM
+# čas MacBook Pro (13-inch, 2017, Two Thunderbolt 3 ports), 2,3 GHz Dvoujádrový Intel Core i5, 8GB RAM, MacOS Catalina 10.15.7
     - 1. Pokus
      - T1 - ``3:55 minut``
      - T2 - ``13 sekund``
