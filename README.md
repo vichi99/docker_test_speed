@@ -50,12 +50,14 @@ Jelikož jsem zvědavý a [docker](https://www.docker.com/) se chová rozdílně
 
 | Typ PC  | systém | T1            | T2            | T3            | pokus |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Macbook Air 13-inch 2015 8GB RAM | macOS | 9:45          | 25            | 55            | 1. |
+| Macbook Air 13-inch 2015 8GB RAM | macOS - Catalina | 9:45          | 25            | 55            | 1. |
 | ---- | ---- | 4:20          | 16            | 40            | 2. |
 | ---- | ---- |3:45          | 28            | 37            | 3. |
-| Macbook Pro 13-inch 2017 8GB RAM | macOS | 3:55          | 13            | 22            | 1. |
-| ---- | macOS | 3:30          | 17            | 29            | 2. |
+| Macbook Pro 13-inch 2017 8GB RAM | macOS - Catalina | 3:55          | 13            | 22            | 1. |
+| ---- | ---- | 3:30          | 17            | 29            | 2. |
 | Výkonný Stolní Windows PC 16GB RAM | Xubuntu in VM | 1:23          | 10            | 16            | 1. |
+| Macbook Pro 13-inch 2020 16GB RAM 4x Thunderbolt | macOS - Bug Sur | 1:50          | 9            | 17           | 1. |
+| Macbook Pro 13-inch 2020 16GB RAM 4x Thunderbolt | macOS - Bug Sur | 1:47          | 9            | 14           | 2. |
 
 # Správné zobrazení
 ![](test.png)
