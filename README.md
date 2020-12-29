@@ -56,7 +56,7 @@ Jelikož jsem zvědavý a [docker](https://www.docker.com/) se chová rozdílně
 | Macbook Pro 13-inch 2017 8GB RAM | macOS - Catalina | 3:55          | 13            | 22            | 1. |
 | ---- | ---- | 3:30          | 17            | 29            | 2. |
 | Výkonný Stolní Windows PC 16GB RAM | Xubuntu in VM | 1:23          | 10            | 16            | 1. |
-| Macbook Pro 13-inch 2020 16GB RAM 4x Thunderbolt | macOS - Bug Sur | 1:50          | 9            | 17           | 1. |
+| Macbook Pro 13-inch 2020 16GB RAM 4x Thunderbolt | macOS - Big Sur | 1:50          | 9            | 17           | 1. |
 | ---- | ---- | 1:47          | 9            | 14           | 2. |
 
 # Správné zobrazení
